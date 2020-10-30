@@ -25,4 +25,4 @@ Output - table with numbers of layers in all positions:
 
  Script creates a table, that includes every size used by given rectangles, then fills it up. Here is a visualisation to how this script works:
 
- <img alt = "grid" src=“https://github.com/mirinas/overlapping-rectangles/blob/master/img/grid.png”>
+ <img alt = "grid" src=“img/grid.png”>
