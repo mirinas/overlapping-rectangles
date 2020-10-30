@@ -27,3 +27,5 @@ Output - table with numbers of layers in all positions:
  Script creates a table, that includes every size used by given rectangles, then fills it up. Here is a visualisation to how this script works:
 
  <img width = "900" alt = "filled table" src=“img/grid.png” raw=true>
+ 
+ <img width=“964” alt=“java 8 and prio java 8  array review example” src=“https://github.com/jaimehernan95/arrayReview-java/blob/master/images/%20arrayExample.png 23”>
