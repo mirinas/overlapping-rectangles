@@ -28,4 +28,4 @@ Output - table with numbers of layers in all positions:
 
  <img width = "900" alt = "filled table" src=“img/grid.png” raw=true>
  
-[![Build Status](https://travis-ci.org/3b1b/manim.svg?branch=master)](https://travis-ci.org/3b1b/manim)
+[![grid](img/grid.png)
