@@ -28,4 +28,4 @@ Output - table with numbers of layers in all positions:
 
  <img width = "900" alt = "filled table" src=“img/grid.png” raw=true>
  
- <img width=“964” alt=“java 8 and prio java 8  array review example” src=“https://github.com/jaimehernan95/arrayReview-java/blob/master/images/%20arrayExample.png 23”>
+[![Build Status](https://travis-ci.org/3b1b/manim.svg?branch=master)](https://travis-ci.org/3b1b/manim)
