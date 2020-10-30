@@ -23,5 +23,6 @@ Output - table with numbers of layers in all positions:
     0 1 2 3 2 1 0
     0 0 1 2 1 0 0
 
- Script creates a table, that includes every size used by given rectangles, then fills it up. Here is a 
- [visualisation](mirinas.github.com/overlapping-rectangles/img/grid.png) to how this script works.
+ Script creates a table, that includes every size used by given rectangles, then fills it up. Here is a visualisation to how this script works:
+ 
+ <img src=“https://github.com/mirinas/overlapping-rectangles/blob/master/img/grid.png”>
