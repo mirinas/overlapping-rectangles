@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1604089115 source:c:\users\augus\dropbox\c++\plakatai\main.cpp
+	<iostream>
+	<map>
+	<fstream>
+	<vector>
+
